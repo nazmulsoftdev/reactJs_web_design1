@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactJs_web_design1/static/css/main.14c1e271.chunk.css",
-    "main.js": "/reactJs_web_design1/static/js/main.f3d015ad.chunk.js",
-    "main.js.map": "/reactJs_web_design1/static/js/main.f3d015ad.chunk.js.map",
+    "main.js": "/reactJs_web_design1/static/js/main.c6893fc1.chunk.js",
+    "main.js.map": "/reactJs_web_design1/static/js/main.c6893fc1.chunk.js.map",
     "runtime-main.js": "/reactJs_web_design1/static/js/runtime-main.efb2b743.js",
     "runtime-main.js.map": "/reactJs_web_design1/static/js/runtime-main.efb2b743.js.map",
     "static/css/2.87f52e3d.chunk.css": "/reactJs_web_design1/static/css/2.87f52e3d.chunk.css",
@@ -13,13 +13,24 @@
     "index.html": "/reactJs_web_design1/index.html",
     "static/css/2.87f52e3d.chunk.css.map": "/reactJs_web_design1/static/css/2.87f52e3d.chunk.css.map",
     "static/css/main.14c1e271.chunk.css.map": "/reactJs_web_design1/static/css/main.14c1e271.chunk.css.map",
-    "static/js/2.0a6537b1.chunk.js.LICENSE.txt": "/reactJs_web_design1/static/js/2.0a6537b1.chunk.js.LICENSE.txt"
+    "static/js/2.0a6537b1.chunk.js.LICENSE.txt": "/reactJs_web_design1/static/js/2.0a6537b1.chunk.js.LICENSE.txt",
+    "static/media/contentimage2.f12394ad.png": "/reactJs_web_design1/static/media/contentimage2.f12394ad.png",
+    "static/media/contentimg1.7547a8de.png": "/reactJs_web_design1/static/media/contentimg1.7547a8de.png",
+    "static/media/review1.9695c796.png": "/reactJs_web_design1/static/media/review1.9695c796.png",
+    "static/media/review2.3f76dd36.png": "/reactJs_web_design1/static/media/review2.3f76dd36.png",
+    "static/media/review3.993ec789.png": "/reactJs_web_design1/static/media/review3.993ec789.png",
+    "static/media/review4.1a4c4576.png": "/reactJs_web_design1/static/media/review4.1a4c4576.png",
+    "static/media/review5.836886ba.png": "/reactJs_web_design1/static/media/review5.836886ba.png",
+    "static/media/slider.0777f6a7.png": "/reactJs_web_design1/static/media/slider.0777f6a7.png",
+    "static/media/sliderimg1.1fcb1970.png": "/reactJs_web_design1/static/media/sliderimg1.1fcb1970.png",
+    "static/media/sliderimg2.769cf430.png": "/reactJs_web_design1/static/media/sliderimg2.769cf430.png",
+    "static/media/sliderimg3.fb609b10.png": "/reactJs_web_design1/static/media/sliderimg3.fb609b10.png"
   },
   "entrypoints": [
     "static/js/runtime-main.efb2b743.js",
     "static/css/2.87f52e3d.chunk.css",
     "static/js/2.0a6537b1.chunk.js",
     "static/css/main.14c1e271.chunk.css",
-    "static/js/main.f3d015ad.chunk.js"
+    "static/js/main.c6893fc1.chunk.js"
   ]
 }
